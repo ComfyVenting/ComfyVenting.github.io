@@ -1,12 +1,35 @@
 html {
 	background-color: white;
 }
+#header {
+	text-align: center;
+	line-height: 10px;
+}
 h1 {
 	color: black;
 }
 h2 {
 	color: black;
 }
+#content {
+	margin-left: 25px;
+	margin-right: 25px;
+	line-height: 15px;
+}
 p {
 	color: black;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline
+}
+#footnote {
+	position: fixed;
+	bottom: 5px;
+	width: 100%
+}
+#footnote p {
+	text-align: center;
 }
