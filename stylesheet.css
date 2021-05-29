@@ -30,7 +30,7 @@ p {
 	text-align: center;
 }
 #link p {
-	size: 24px;
+	font-size: 24px;
 }
 a {
 	text-decoration: none;
