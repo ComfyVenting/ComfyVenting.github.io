@@ -29,6 +29,9 @@ p {
 #link {
 	text-align: center;
 }
+#link p {
+	size: 24px;
+}
 a {
 	text-decoration: none;
 	color: inherit;
@@ -43,5 +46,5 @@ a:hover {
 }
 #footnote p {
 	text-align: center;
-	line-height: 12px;
+	line-height: 6px;
 }
