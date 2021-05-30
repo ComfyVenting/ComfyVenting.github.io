@@ -1,5 +1,6 @@
 html {
 	background-color: #1f1f1f;
+	cursor: url(/default.cur?v=2), default;
 }
 @font-face {
     font-family: 'SourceCodePro';
@@ -123,10 +124,12 @@ html {
 h1 {
 	font-family: SourceCodePro;
 	color: #e0e0e0;
+	cursor: url(/text.cur?v=2), text;
 }
 h2 {
 	font-family: SourceCodePro;
 	color: #e0e0e0;
+	cursor: url(/text.cur?v=2), text;
 }
 #content {
 	text-align: left;
@@ -137,6 +140,7 @@ h2 {
 p {
 	font-family: SourceCodePro;
 	color: #e0e0e0;
+	cursor: url(/text.cur?v=2), text;
 }
 #contentbreak {
 	line-height: 10px;
@@ -152,6 +156,7 @@ a {
 	font-family: inherit;
 	text-decoration: none;
 	color: #8f8f8f;
+	cursor: url(/link.cur?v=2), pointer;
 }
 a:hover {
 	text-decoration: underline;
