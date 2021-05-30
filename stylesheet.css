@@ -171,11 +171,14 @@ a:hover {
 	font-size: 13px;
 	color: #5f5f5f;
 }
+#contentbreak2 {
+	line-height: 14px;
+}
 #links2 {
 	text-align: center;
 	line-height: 10px;
 }
-#links p {
+#links2 p {
 	font-size: 18px;
 }
 #footnote {
