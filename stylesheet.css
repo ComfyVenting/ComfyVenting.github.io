@@ -1,4 +1,4 @@
-html {
+html, body {
 	background-color: #1f1f1f;
 	cursor: url(/default.cur?v=2), default;
 }
