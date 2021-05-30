@@ -171,6 +171,13 @@ a:hover {
 	font-size: 13px;
 	color: #5f5f5f;
 }
+#links2 {
+	text-align: center;
+	line-height: 10px;
+}
+#links p {
+	font-size: 18px;
+}
 #footnote {
 	position: fixed;
 	bottom: 5px;
