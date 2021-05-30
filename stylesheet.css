@@ -151,7 +151,7 @@ p {
 a {
 	font-family: inherit;
 	text-decoration: none;
-	color: inherit;
+	color: #cfcfcf;
 }
 a:hover {
 	text-decoration: underline;
